@@ -4,7 +4,7 @@ ovp
 
 Plataforma abierta de elecciones [PHP]
 
-Lo que es capaz de hacer:
+Capacidades:
 
 -Registro de usuarios.
 -Creación de elecciones por parte de los usuarios registrados.
