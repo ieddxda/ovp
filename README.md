@@ -17,6 +17,8 @@ Pendiente:
 ->La posibilidad de cambiar el sistema de "Quórum" a un "Límite" de votantes o bien a una fecha.
 ->Opción de recuperación de cuentas.
 ->Compatibilidad con "plugins".
+->Sistema de administración General
+->Integración con un tema "Default"
 
 Se incluyen los archivos necesarios para armar el sistema. Requiere PHP 5.0+ y MySQL 5.0+
 No incluye tema alguno. El diseño de la apariencia de la plataforma es independiente a su funcionalidad.
