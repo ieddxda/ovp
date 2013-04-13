@@ -1,5 +1,6 @@
 ovp
 ===
+<pre>
 
 Plataforma abierta de elecciones [PHP]
 
@@ -20,3 +21,4 @@ Pendiente:
 Se incluyen los archivos necesarios para armar el sistema. Requiere PHP 5.0+ y MySQL 5.0+
 No incluye tema alguno. El diseño de la apariencia de la plataforma es independiente a su funcionalidad.
 Últimos cambios: 12/04/2013
+</pre>
